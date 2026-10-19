@@ -6,15 +6,18 @@ Website: **https://veilguard.site**
 
 ## Download
 
-| | Download |
+| | Get it |
 |---|---|
-| Windows app (Windows 10/11, 64-bit) | [VeilGuard-Setup.exe](https://github.com/ultrakingdoms2025/veilguard-releases/releases/latest/download/VeilGuard-Setup.exe) |
-| Browser extension (Chrome, Edge, Brave and other Chromium browsers) | [VeilGuard-Extension.zip](https://github.com/ultrakingdoms2025/veilguard-releases/releases/latest/download/VeilGuard-Extension.zip) |
-| Android keyboard (Android 8 or later) | [VeilGuard-Keyboard.apk](https://www.veilguard.site/download/android-keyboard) |
+| Windows app (Windows 10/11, 64-bit) | [Microsoft Store](https://apps.microsoft.com/detail/XPDNLTLCSW4PZW) |
+| Browser extension for Microsoft Edge | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/veilguard-%E2%80%94-ai-search-l/gjnoddkpaciihnjehcnjjmphemipalja) |
+| Browser extension for Firefox | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/veilguard-ai-search-leak-guard/) |
+| Browser extension for Chrome, Brave and other Chromium browsers | Chrome Web Store listing in review. Meanwhile: [VeilGuard-Extension.zip](https://github.com/ultrakingdoms2025/veilguard-releases/releases/latest/download/VeilGuard-Extension.zip) (load unpacked) |
+| Android keyboard (Android 8 or later) | Google Play listing in review. Meanwhile: [VeilGuard-Keyboard.apk](https://www.veilguard.site/download/android-keyboard) |
 | Outlook add-in | [Install guide](https://www.veilguard.site/office/) |
+| IT roll-out (Windows, silent install) | [VeilGuard-Setup.exe](https://github.com/ultrakingdoms2025/veilguard-releases/releases/latest/download/VeilGuard-Setup.exe) with `VeilGuard-Setup.exe --install --silent` |
 | All versions and release notes | [Releases](https://github.com/ultrakingdoms2025/veilguard-releases/releases) |
 
-Install steps are on https://veilguard.site/#install. IT roll-out: `VeilGuard-Setup.exe --install --silent`.
+Install steps are on https://www.veilguard.site/download.
 
 ## Flyers
 
