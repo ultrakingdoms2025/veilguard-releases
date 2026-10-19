@@ -10,9 +10,21 @@ Website: **https://veilguard.site**
 |---|---|
 | Windows app (Windows 10/11, 64-bit) | [VeilGuard-Setup.exe](https://github.com/ultrakingdoms2025/veilguard-releases/releases/latest/download/VeilGuard-Setup.exe) |
 | Browser extension (Chrome, Edge, Brave and other Chromium browsers) | [VeilGuard-Extension.zip](https://github.com/ultrakingdoms2025/veilguard-releases/releases/latest/download/VeilGuard-Extension.zip) |
+| Android keyboard (Android 8 or later) | [VeilGuard-Keyboard.apk](https://www.veilguard.site/download/android-keyboard) |
+| Outlook add-in | [Install guide](https://www.veilguard.site/office/) |
 | All versions and release notes | [Releases](https://github.com/ultrakingdoms2025/veilguard-releases/releases) |
 
 Install steps are on https://veilguard.site/#install. IT roll-out: `VeilGuard-Setup.exe --install --silent`.
+
+## Flyers
+
+One-page overviews to share or print (A4 PDF, plus PNG for posting):
+
+| | PDF | Image |
+|---|---|---|
+| Browser extension | [PDF](flyers/veilguard-extension-flyer.pdf) | [PNG](flyers/veilguard-extension-flyer.png) |
+| Windows app | [PDF](flyers/veilguard-windows-flyer.pdf) | [PNG](flyers/veilguard-windows-flyer.png) |
+| Android keyboard | [PDF](flyers/veilguard-keyboard-flyer.pdf) | [PNG](flyers/veilguard-keyboard-flyer.png) |
 
 ## Support
 
