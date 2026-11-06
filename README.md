@@ -12,7 +12,7 @@ Website: **https://veilguard.site**
 | Browser extension for Microsoft Edge | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/veilguard-%E2%80%94-ai-search-l/gjnoddkpaciihnjehcnjjmphemipalja) |
 | Browser extension for Firefox | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/veilguard-ai-search-leak-guard/) |
 | Browser extension for Chrome, Brave and other Chromium browsers | [Chrome Web Store](https://chromewebstore.google.com/detail/veilguard-%E2%80%94-ai-search-lea/holnjlaomggcniajabhjnmaannpdaafa) |
-| Android keyboard (Android 8 or later) | Google Play listing in review. Meanwhile: [VeilGuard-Keyboard.apk](https://www.veilguard.site/download/android-keyboard) |
+| Android keyboard (Android 8 or later) | [Google Play](https://play.google.com/store/apps/details?id=site.veilguard.keyboard). Or [VeilGuard-Keyboard.apk](https://www.veilguard.site/download/android-keyboard) |
 | Outlook add-in | [Install guide](https://www.veilguard.site/office/) |
 | IT roll-out (Windows, silent install) | [VeilGuard-Setup.exe](https://github.com/ultrakingdoms2025/veilguard-releases/releases/latest/download/VeilGuard-Setup.exe) with `VeilGuard-Setup.exe --install --silent` |
 | All versions and release notes | [Releases](https://github.com/ultrakingdoms2025/veilguard-releases/releases) |
